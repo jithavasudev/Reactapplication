@@ -1,2 +1,2 @@
-# Reactapplication
+# Chat application
 Simple chat app
